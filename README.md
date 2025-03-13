@@ -4,3 +4,6 @@ This is a break down of the database created to store the many genomics datasets
 # Database layout
 
 # Schemas
+
+# Notes 
+MERS-CoV: Middle East respiratory syndrome coronavirus
